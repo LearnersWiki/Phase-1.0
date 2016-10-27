@@ -1,0 +1,35 @@
+# Empty CSS file for your own CSS
+
+.scroll-div{
+		width:404px;
+		height:380px;
+}
+
+.searchText{
+	    width: 558px !important;
+}
+
+.thumb{
+	
+    width: 200px !important;
+	height: 130px !important;
+	cursor:pointer !important;
+	
+}
+
+.info{
+	font-family: "Arial Black", Times, serif;
+	font-weight: bold;
+	color: #49463a;
+	text-align: center;
+}
+
+.brightness {
+    background-color: white !important;
+    display: inline-block !important;
+
+}
+.brightness img:hover {
+    opacity: .5 !important;
+	
+}
